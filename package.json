@@ -12,7 +12,6 @@
     "eslint": "^6.3.0",
     "eslint-plugin-jest": "^22.17.0",
     "express": "^4.17.1",
-    "gh-pages": "^2.1.1",
     "htmlhint": "^0.11.0",
     "react": "^16.9.0",
     "react-bootstrap": "^1.0.0-beta.12",
@@ -46,7 +45,9 @@
   },
   "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
   "main": "index.js",
-  "devDependencies": {},
+  "devDependencies": {
+    "gh-pages": "^2.1.1"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/AlejandraMoralesB/SCL010-Burger-Queen.git"
@@ -56,5 +57,5 @@
   "bugs": {
     "url": "https://github.com/AlejandraMoralesB/SCL010-Burger-Queen/issues"
   },
-  "homepage": "https://github.com/AlejandraMoralesB/SCL010-Burger-Queen#readme"
+  "homepage": "https://alejandramoralesb.github.io/SCL010-Burger-Queen"
 }
